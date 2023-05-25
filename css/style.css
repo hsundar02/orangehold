@@ -1,0 +1,100 @@
+.navbar-brand img {
+    height: 70px;
+    width: auto;
+}
+
+.menu-bar {}
+
+.frontpg {
+    display: flex;
+}
+
+.frontpg1 {
+    line-height: 30px;
+    padding: 20px;
+}
+
+.frontpg1 h1 {
+    font-size: 3.5rem;
+}
+
+.frontpg2 {}
+
+.trailbtn {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: white;
+    background-color: #22205f;
+}
+
+.btns p {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: white;
+    background-color: #22205f;
+}
+
+.bestecom h4 {
+    text-align: center;
+}
+
+.bestecom p {
+    text-align: center;
+}
+
+.bestecom img {
+    padding: 10px;
+}
+
+.bestecom img:hover {
+    transform: scale(1.1);
+}
+
+.weoffer1 {
+    display: flex;
+}
+
+.offer1 {
+    padding: 25px;
+    border: .5px solid hsl(0, 15%, 83%);
+    border-radius: 5px;
+}
+
+.offer1 img {
+    height: 70px;
+    width: auto;
+}
+
+.weoffer2 {
+    display: flex;
+}
+
+.offer2 {
+    text-align: center;
+    padding: 25px;
+    border: .5px solid hsl(0, 15%, 83%);
+    border-radius: 5px;
+}
+
+.offer2 img {
+    height: 70px;
+    width: auto;
+}
+
+.createonline {
+    text-align: center;
+}
+
+.sectionA {
+    display: flex;
+}
+
+.section-img img {
+    border-radius: 5px;
+}
+
+.section-text {
+    padding-top: 50px;
+}
